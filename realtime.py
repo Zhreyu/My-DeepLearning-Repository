@@ -12,6 +12,8 @@ face_classifier = cv2.CascadeClassifier(
     cv2.data.haarcascades + "haarcascade_frontalface_default.xml"
 )
 
+
+# real 
 DEVICE = "cuda:0" if torch.cuda.is_available() else "cpu"
 
 mtcnn = MTCNN(
