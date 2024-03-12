@@ -1,0 +1,11 @@
+Incident ID,Type,Description,Latitude,Longitude,Date,Time,Severity,Reported By
+001,Traffic,Car accident on MG Road,12.9716,77.5946,2024-01-16th,08:30 AM,High,User123
+002,Crime,Reported mugging in Cubbon Park,12.9716,77.5946,2024-01-14,10:00 PM,Medium,User456
+003,Hazard,Fallen tree blocking Brigade Road,12.9716,77.5946,2024-01-16,03:45 PM,Low,User789
+004,Public Disturbance,Loud party at Indiranagar apartments,12.9716,77.5946,2024-01-12,12:30 AM,Medium,User147
+005,Traffic,Broken traffic light on Koramangala,12.9716,77.5946,2024-01-11,09:00 AM,Medium,User258
+006,Crime,Store break-in on Commercial Street,12.9716,77.5946,2024-01-13,02:00 AM,High,User369
+007,Fire,Small fire in a restaurant kitchen in Jayanagar,12.9716,77.5946,2024-01-10,06:50 PM,High,User321
+008,Hazard,Water main break on Bannerghatta Road,12.9716,77.5946,2024-01-09,11:00 AM,Medium,User654
+009,Traffic,Minor car collision near Majestic,12.9716,77.5946,2024-01-08,05:15 PM,Low,User987
+010,Public Disturbance,Street performance causing crowd on Church Street,12.9716,77.5946,2024-01-07,01:00 PM,Low,User246
